@@ -1,1 +1,1 @@
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LuvinPandas/Panda.Club/refs/heads/main/Games/Fisch"))()
